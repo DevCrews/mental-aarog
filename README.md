@@ -1,25 +1,15 @@
-<!-- ## Title
+<h1 align="center" id="title">Mental Aarog</h1>
 
-## Description
+<p id="description">Our app named "Mental Aarog" is designed to address the pressing issue of untreated depression by providing early detection diagnosis and effective treatment through a holistic approach. The app utilizes various innovative methods to track users' mental health and provide personalized solutions to improve their well-being. Our use of web3.storage, FileCoin and IPFS ensures secure storage of user reports and our own token MAG adds a unique incentive and reward system to keep users engaged and motivated.</p>
 
-## Theme
+<h2>Theme</h2>
+<p>Health Care</p>
 
 ## Special Tracks
 
-## Description
+- Ethereum Track
+- Filecoin and IPFS
 
-## Tech Stack
-
-## Installation Steps
-
-## Libraries and dependencies
-
-## Declaration of previous work -->
-
-<h1 align="center" id="title">Title : Mental Aarog</h1>
-
-<p id="description">Our app named "Mental Aarog" is designed to address the pressing issue of untreated depression by providing early detection diagnosis and effective treatment through a holistic approach. The app utilizes various innovative methods to track users' mental health and provide personalized solutions to improve their well-being. Our use of web3.storage, FileCoin and IPFS ensures secure storage of user reports and our own token MAG adds a unique incentive and reward system to keep users engaged and motivated.</p>
- 
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
@@ -105,7 +95,7 @@ Technologies used in the project:
 - Ethereum (Solidity)
 - Scikit Learn
 
-<h2>Libraries and dependencies </h2>
+<h2>🦸 Libraries and dependencies </h2>
 
 - React
 - Supabase
@@ -118,11 +108,11 @@ Technologies used in the project:
 - web3.js
 - Axios
 
-<h2>Declaration of previous work</h2>
+<h2>👨‍💻 Declaration of previous work</h2>
 
 The machine learning model that we used is already trained model for one of our previous projects. So for twitter analysis and daily routine analysis, we used the same model.
 
-<h2>Works done in Hackathon</h2>
+<h2>🖧Works done in 24 hours hackathon</h2>
 We implemented the following features
 
 1. Connect
