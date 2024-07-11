@@ -28,8 +28,7 @@ const Register = () => {
     setLoading(true);
 
     try {
-      const res = await axios.get("http://192.168.112.244:8000/create");
-      const wallet = await res.data;
+     
       const { error } = await supabase.auth.signUp(
         {
           email: email,
@@ -42,8 +41,7 @@ const Register = () => {
             twitter: twitter,
             role: role,
             gender: gender,
-            address: wallet.wallet,
-            private: wallet.privateKey,
+           
           },
         }
       );
