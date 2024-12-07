@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Mental Aarog</h1>
 
+## IEEE Maker fair track national hackathon winner!
+
 <p id="description">Our app named "Mental Aarog" is designed to address the pressing issue of untreated depression by providing early detection diagnosis and effective treatment through a holistic approach. The app utilizes various innovative methods to track users' mental health and provide personalized solutions to improve their well-being. Our use of web3.storage, FileCoin and IPFS ensures secure storage of user reports and our own token MAG adds a unique incentive and reward system to keep users engaged and motivated.</p>
 
 <h2>Theme</h2>
